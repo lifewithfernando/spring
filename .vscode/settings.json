@@ -1,0 +1,4 @@
+{
+    "spring.initializr.defaultArtifactId": "v1",
+    "spring.initializr.defaultGroupId": "com.fernandoworld"
+}
